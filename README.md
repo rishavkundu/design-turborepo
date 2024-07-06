@@ -1,4 +1,4 @@
-# My Design System
+# My Personal Design System
 
 👋 I'm Rishav Kundu, an independent developer with a passion for pushing the boundaries of digital experiences. Welcome to my personal design system—a labor of love crafted to redefine what's possible in the world of digital UX/UI.
 
