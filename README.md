@@ -24,7 +24,7 @@ My goal? To challenge the status quo, to inspire, and to elevate the quality of 
 
 ## Dive Deeper
 
-Explore the [full documentation](https://rishavkundu.com/design/) to unlock the full potential of this system. From detailed component breakdowns to design philosophy discussions, it's all there.
+Explore the [documentation](https://rishavkundu.com/design/) to unlock the full potential of this system. From detailed component breakdowns to design philosophy discussions, it's all there.
 
 ## Let's Connect!
 
