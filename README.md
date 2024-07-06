@@ -1,6 +1,6 @@
-# Rishav's Design System
+# My Design System
 
-Hey there! 👋 I'm Rishav Kundu, an independent developer with a passion for pushing the boundaries of digital experiences. Welcome to my personal design system—a labor of love crafted to redefine what's possible in the world of digital UX/UI.
+👋 I'm Rishav Kundu, an independent developer with a passion for pushing the boundaries of digital experiences. Welcome to my personal design system—a labor of love crafted to redefine what's possible in the world of digital UX/UI.
 
 ## Digital Experiences for the Future
 
@@ -10,11 +10,11 @@ My goal? To challenge the status quo, to inspire, and to elevate the quality of 
 
 ## Features That Push Boundaries
 
-- 🎨 Cutting-edge component library
-- 🌟 Innovative interaction patterns
-- ♿ Accessibility as a core principle, not an afterthought
-- 🌓 Stunning dark and light modes
-- 📱 Responsive design that adapts to any device
+- 🎨 Refined and modern component library.
+- 🌟 Innovative interaction patterns.
+- ♿ Accessibility as a core principle, not an afterthought.
+- 🌓 Stunning dark and light modes.
+- 📱 Responsive design ensuring seamless delivery across devics.
 
 ## Quick Start
 
@@ -24,7 +24,7 @@ My goal? To challenge the status quo, to inspire, and to elevate the quality of 
 
 ## Dive Deeper
 
-Explore the [full documentation](https://rishav-design-system.com/docs) to unlock the full potential of this system. From detailed component breakdowns to design philosophy discussions, it's all there.
+Explore the [full documentation](https://rishavkundu.com/design/) to unlock the full potential of this system. From detailed component breakdowns to design philosophy discussions, it's all there.
 
 ## Let's Connect!
 
